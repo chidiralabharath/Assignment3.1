@@ -1,0 +1,18 @@
+{
+  "name": "fastapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jasmine": "^5.1.0",
+    "mongoose": "^8.1.2",
+    "supertest": "^6.3.4"
+  }
+}
